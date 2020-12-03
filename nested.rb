@@ -82,8 +82,8 @@ def adding_matz
       }
     }
 programmer_hash[:yukihiro_matsumoto] = []
-programmer_hash[:yukihiro_matsumoto][0] 
-programmer_hash[:yukihiro_matsumoto][1]
+programmer_hash[:yukihiro_matsumoto][0] = { 
+programmer_hash[:yukihiro_matsumoto][1] =
 
 
 
